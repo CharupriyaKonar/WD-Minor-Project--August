@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Document</title>
+    <style>
+       #header{
+        top:0px;
+            position:scroll;
+            left:0px;
+            width:100%;
+            background-image:linear-gradient(120deg,teal,darkblue,Lightgreen,white);
+            color:cornsilk;
+            height:50px;
+            font-family:Georgia, 'Times New Roman', Times, serif;
+            text-align: center;
+            border-radius: 40%;
+       }
+       #footer{
+         font-size: x-large;
+         text-align: center;
+         background-image:linear-gradient(120deg,blue,darkblue,skyblue,lightblue);
+         font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+         font-style: italic;
+         font-weight: bolder;
+         border-radius: 15%;
+         width:fit-content;
+       }
+       
+       h2{
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-weight: bold;
+        font-size:50px;
+        
+
+       }
+       h3{
+        font-weight: lighter;
+        font-style: italic;
+        font-size:x-large;
+        background-image: linear-gradient(120deg,cornsilk,beige,wheat,floralwhite,ghostwhite);
+        color: black;
+        border-radius: 20%;
+        display: flex;
+            flex-direction:  row;
+            padding:20px;
+            margin:20px;
+            width: max-content;
+            border: 2px whitesmoke;
+            margin: 50px;
+
+            
+       }
+       img {
+  border-radius: 50%;
+  border: 0.5px  black;
+  padding: 5px;
+  box-shadow: 5px 5px;
+}
+    body{
+       background-image:url(https://4kwallpapers.com/images/wallpapers/indian-flag-tricolour-flag-national-flag-flag-of-india-5k-5120x2880-1544.jpg); 
+        
+       background-size :105%;
+    }
+    h4{
+        font-style: italic;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bolder;
+        text-align: center;
+    }
+    
+      
+      
+    </style>
+</head>
+<body>
+    <h2 id="header"><u>Historical Places In India</h2></u>
+
+ <br><br><br>
+ <div align="left">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://en.wikipedia.org/wiki/Brihadisvara_Temple,_Thanjavur">
+    <img src="https://www.tourmyindia.com/blog//wp-content/uploads/2019/10/Thanjavur.jpg"
+     width="350px" height="350px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://en.wikipedia.org/wiki/Meenakshi_Temple,_Madurai#:~:text=It%20is%20dedicated%20to%20the,6th%2Dcentury%2DCE%20texts.">
+    <img src="https://images.herzindagi.info/image/2021/Mar/meenakshi-temples.jpg" widht="200px" height="200px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://en.wikipedia.org/wiki/Golden_Temple">
+    <img src="https://media.istockphoto.com/photos/golden-temple-the-main-sanctuary-of-sikhs-amritsar-india-picture-id543179390?k=20&m=543179390&s=612x612&w=0&h=-jKeZmLk6M_bFmcEc0hCe34rxDEOzoJSh2u8CnaU2BI=" width="350px"height="350px"></a>
+    <u><h3>Brihadisvara Temple,Thanjavur</u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Madurai Meenakshi-Amman Temple</u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Golden Temple</h3></u>
+ </div>
+ <div align="left"
+ &nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://en.wikipedia.org/wiki/Marble_Palace_(Kolkata)">
+ <img src="https://kolkatatourism.travel/images//tourist-places/marble-palace-mansion-kolkata/marble-palace-mansion-kolkata-tourism-entry-ticket-price.jpg" width="350px" height="350px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://en.wikipedia.org/wiki/Agra_Fort">
+    <img src="https://media.istockphoto.com/photos/agra-fort-medieval-indian-fort-at-agra-india-at-sunrise-picture-id1169495248?b=1&k=20&m=1169495248&s=170667a&w=0&h=aDuQxXEn9-qOqGDmw2T2xbcFVg4XDNLnieDktbnxgTo=" width="350px" height="350px">
+ </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://en.wikipedia.org/wiki/Amber_Fort">
+    <img src="https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/27/73/32.jpg" width="350px" height="350px">
+ </a>
+ <u><h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marble Palace</u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Agra Fort</u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Amber Palace</h3></u>
+</div><br><br><br>
+<div align="center">
+   <audio controls>
+      <source src="https://pagalworld.com.se/files/download/id/6829">National Anthem</audio>
+</div>
+<h4 id="footer">Thankyou<br>Designed and Developed By:- M.Charupriya Konar</h4>
+
+</body>
+</html>
